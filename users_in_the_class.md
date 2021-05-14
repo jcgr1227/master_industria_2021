@@ -6,6 +6,7 @@
  - Domingo
  - Lluis
  - Beatriz Seoane
+ - Juan C
 
 -----
 # Professor
